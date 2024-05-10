@@ -34,10 +34,9 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(900) 
   const taguser = '@' +  m.sender.split('@s.whatsapp.net')[0];
-let str = `*
-𝑇𝑅𝐴𝐹𝐴𝐿𝐺𝐴𝑅 𝐿𝐴𝛩-BOT 
+let str = `
 
- *مرحبا,* ${rtotalreg}
+ * ${rtotalreg} مرحبا,* 
 
 *_<𝐻𝐴𝑅𝑅𝑌 𝑃𝛩𝑇𝑇𝐸𝑅/>_*   
 

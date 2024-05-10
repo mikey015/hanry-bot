@@ -11,7 +11,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['22247072475', '👑 Mystic - Creador 👑', true],
+  ['201153573240', '👑 Mystic - Creador 👑', true],
 ];
 
 global.suittag = ['201153573240'];
